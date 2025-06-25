@@ -1,0 +1,14 @@
+gcode_files/
+__pycache__/
+*.pyc
+*.pyo
+.env
+.idea
+*.json
+.venv/
+patterns/cached_svg/
+patterns/cached_images/custom_*
+
+# misc
+.DS_Store
+*.pem
